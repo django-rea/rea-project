@@ -23,3 +23,8 @@ impossible to produce consumable artifacts by end users and developers.
 community able to produce html/pdf/epub documents containing formulas, images, diagrams and structured text. Furthermore
 we get the ability to publish these documents in `readthedocs.org <http://readthedocs.org>`_ which will be good to
 ease diffusion.
+
+Update to last LTS django release
+---------------------------------
+
+When we have gotten all this refactoring, we are going to update all code to `1.11 django release <https://docs.djangoproject.com/en/1.11/releases/1.11/>`_, so we can use the new features of this version and keep the project sustainable for a long time.   
