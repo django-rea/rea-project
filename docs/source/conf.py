@@ -50,8 +50,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'rea-project'
-copyright = u'2017, Bob Haugen, Lynn Foster, Xavi Paniello'
-author = u'Bob Haugen, Lynn Foster, Xavi Paniello'
+copyright = u'2017, Bob Haugen, Lynn Foster, Xavi Paniello, Guillermo C.'
+author = u'Bob Haugen, Lynn Foster, Xavi Paniello, Guillermo C.'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -133,7 +133,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'rea-project.tex', u'rea-project Documentation',
-     u'Bob Haugen, Lynn Foster, Xavi Paniello', 'manual'),
+     u'Bob Haugen, Lynn Foster, Xavi Paniello', 'Guillermo C.', 'manual'),
 ]
 
 
