@@ -50,8 +50,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'rea-project'
-copyright = u'2017, Bob Haugen, Lynn Foster, Xavi Paniello, Guillermo C.'
-author = u'Bob Haugen, Lynn Foster, Xavi Paniello, Guillermo C.'
+copyright = u'2017, django-rea'
+author = u'django-rea'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
