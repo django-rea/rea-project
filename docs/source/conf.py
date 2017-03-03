@@ -133,7 +133,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'rea-project.tex', u'rea-project Documentation',
-     u'Bob Haugen, Lynn Foster, Xavi Paniello', 'Guillermo C.', 'manual'),
+     u'django-rea', 'manual'),
 ]
 
 
